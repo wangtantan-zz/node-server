@@ -1,6 +1,7 @@
 # node server
 
 项目目录结构
+```
 ├── .mssql.json #为mssql命令行使用的配置文件
 ├── README.md
 ├── RELEASE.md #重大发布的发布日志
@@ -17,3 +18,4 @@
 ├── routes #路由表
 ├── scripts #脚本
 └── services #业务逻辑代码
+```
